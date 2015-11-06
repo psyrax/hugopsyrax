@@ -1,0 +1,23 @@
+.siteHead{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url('../images/header.jpg');
+	background-color: black;
+	min-height: 200px;
+	color: white !important;
+	position: relative;
+}
+.particles-js-canvas-el{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.headerLink{
+	color: white;
+}
+.headerLink:hover{
+	color: white;
+}
+.projectTitle{
+	margin-top: 0;
+}

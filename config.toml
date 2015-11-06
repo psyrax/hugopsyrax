@@ -1,0 +1,23 @@
+baseurl = "http://psyrax012.info/"
+languageCode = "en-us"
+title = "Psyrax"
+theme = "psyrax012Theme"
+paginate = 5
+DisqusShortname = "psyrax"
+Copyright = "All rights reserved - 2015"
+canonifyurls = true
+
+[params]
+  description = "Hacker, Gamer, Person of the internet."
+  cover = "/images/screen.jpg"
+  author = "psyrax"
+  authorlocation = "México"
+  authorwebsite = "https://psyrax.github.io"
+  bio= "my bio"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feedly.com/i/subscription/feed/https://psyrax.github.io/atom.xml"
+  githubName = "psyrax"
+  twitterName = "psyrax"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>{{ .Site.Title }}</title>
+    <meta property="og:title" content="{{ .Site.Title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://psyrax012.info/" />
+    <meta property="og:image" content="http://psyrax012.info/images/header.jpg" />
+    <meta property="og:description" content="{{ .Site.Params.description }}" />
+    <meta name="description" content="{{ .Site.Params.description }}" />
+    {{ .Hugo.Generator }}
+    <link href='https://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{.Site.BaseURL}}css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{.Site.BaseURL}}css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{.Site.BaseURL}}css/theme.css">
+  </head>
+  <body>
+    <div class="siteHead">
+      <div id="particles-js"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <h1>Psyrax</h1>
+            <p class="lead">Hacker, Maker, Gamer</p>
+            <ul class="list-unstyled list-inline">
+              <li><a href="https://github.com/psyrax" target="_blank" class="headerLink"><i class="fa fa-github-square"></i> psyrax</a></li>
+              <li><a href="https://www.linkedin.com/in/psyrax" target="_blank" class="headerLink"><i class="fa fa-linkedin-square"></i> psyrax</a></li>
+              <li><a href="https://hackaday.io/psyrax" target="_blank" class="headerLink"><i class="fa fa-external-link-square"></i> psyrax</a></li>
+              <li><a href="https://twitter.com/psyrax" target="_blank" class="headerLink"><i class="fa fa-twitter-square"></i> psyrax</a></li>
+              <li><a href="http://steamcommunity.com/id/psyrax/" target="_blank" class="headerLink"><i class="fa fa-steam-square"></i> psyrax0r</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Personal projects</h1>
+          <p class="lead">Some things I do for fun, or to make a better internet:</p>
+        </div>
+      </div>
+      {{ range first 10 .Data.Pages }}
+        {{ .Render "li" }}
+      {{ end }}
+      <div class="row">
+        <div class="col-xs-12">
+          <small>Powered by <a href="https://gohugo.io" target="_blank">Hugo</a></small>
+        </div>
+      </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="{{.Site.BaseURL}}js/bootstrap.min.js"></script>
+    <script src="{{.Site.BaseURL}}js/particles.min.js"></script>
+    <script src="{{.Site.BaseURL}}js/app.js"></script>
+  </body>
+</html>

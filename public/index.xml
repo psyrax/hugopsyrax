@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psyrax</title>
+    <link>http://psyrax012.info/</link>
+    <description>Recent content on Psyrax</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2015</copyright>
+    <lastBuildDate>Thu, 05 Nov 2015 16:03:09 -0600</lastBuildDate>
+    <atom:link href="http://psyrax012.info/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arduino Performance Monitor</title>
+      <link>http://psyrax012.info/projects/apm/</link>
+      <pubDate>Thu, 05 Nov 2015 16:03:09 -0600</pubDate>
+      
+      <guid>http://psyrax012.info/projects/apm/</guid>
+      <description>
+
+&lt;h2 id=&#34;nice-diy-external-display:f10664aa6b0d9cf32a29dfbf2a345507&#34;&gt;Nice DIY external display&lt;/h2&gt;
+
+&lt;p&gt;An arudino to control media playback and to show current playing song (AIMP and Foobar2000) and computer performance data on an OLED screen. Also controls an additional arduino which control desk lights.&lt;/p&gt;
+
+&lt;p&gt;Coded with C++ for arduino, C# for sending data from windows via native app.&lt;/p&gt;
+
+&lt;h3 id=&#34;links:f10664aa6b0d9cf32a29dfbf2a345507&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackaday.io/project/7365-desktop-monitorcontrol&#34;&gt;Hackaday.io Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecobici DX</title>
+      <link>http://psyrax012.info/projects/ecobicidx/</link>
+      <pubDate>Sun, 01 Jun 2014 10:54:24 +0200</pubDate>
+      
+      <guid>http://psyrax012.info/projects/ecobicidx/</guid>
+      <description>
+
+&lt;h2 id=&#34;a-better-app-to-find-bikes:aac9071c5c2570e1741772b6e945fb84&#34;&gt;A better app to find bikes&lt;/h2&gt;
+
+&lt;p&gt;This project is an API with web,iOS and Pebble cients, made to improve the UX of finding a bike using Mexico City&amp;rsquo;s Ecobici service. It pulls data from &lt;a href=&#34;http://www.citybik.es/&#34;&gt;http://www.citybik.es/&lt;/a&gt; and the official bike endpoint.&lt;/p&gt;
+
+&lt;p&gt;Was made using NodeJS for the webapp and the API, Objective-c on the iOS app, JS for the pebble app.&lt;/p&gt;
+
+&lt;h3 id=&#34;links:aac9071c5c2570e1741772b6e945fb84&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecobici.me&#34;&gt;WEBAPP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/ecobici-dx/id970122508?ls=1&amp;amp;mt=8&#34;&gt;iOS App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.getpebble.com/applications/5488eb4c7d4e8e3f70000037&#34;&gt;Pebble app&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Buscameli</title>
+      <link>http://psyrax012.info/projects/buscameli/</link>
+      <pubDate>Thu, 05 Nov 2015 16:27:40 -0600</pubDate>
+      
+      <guid>http://psyrax012.info/projects/buscameli/</guid>
+      <description>
+
+&lt;h2 id=&#34;mercado-libre-notification-service:ef0fde32371a733f8ccaf1fc82067803&#34;&gt;Mercado Libre notification service&lt;/h2&gt;
+
+&lt;p&gt;Made a custom search engine using Mercado Libre&amp;rsquo;s API. Also emails to notificate new added items.&lt;/p&gt;
+
+&lt;h3 id=&#34;links:ef0fde32371a733f8ccaf1fc82067803&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://buscameli.com&#34;&gt;WEBAPP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wii&#43;Joy Plus</title>
+      <link>http://psyrax012.info/projects/wii/</link>
+      <pubDate>Thu, 05 Nov 2015 16:33:20 -0600</pubDate>
+      
+      <guid>http://psyrax012.info/projects/wii/</guid>
+      <description>
+
+&lt;h2 id=&#34;wiimote-driver-fork:c76ac91c3335398f9cfd717b1c150bd5&#34;&gt;Wiimote driver fork&lt;/h2&gt;
+
+&lt;p&gt;A little fork to improve compability of wiimotes on OSX and steam games.&lt;/p&gt;
+
+&lt;h3 id=&#34;links:c76ac91c3335398f9cfd717b1c150bd5&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://oglabs.info/wii/&#34;&gt;WEBPAGE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fritanga TV</title>
+      <link>http://psyrax012.info/projects/ftv/</link>
+      <pubDate>Thu, 05 Nov 2015 16:07:23 -0600</pubDate>
+      
+      <guid>http://psyrax012.info/projects/ftv/</guid>
+      <description>
+
+&lt;h2 id=&#34;se-habla-español:650709d4b9219db6a0883d65ae920082&#34;&gt;Se habla español&lt;/h2&gt;
+
+&lt;p&gt;Streaming of some videogames, mostly online multiplayer competitive games.&lt;/p&gt;
+
+&lt;h3 id=&#34;links:650709d4b9219db6a0883d65ae920082&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://fritanga.tv&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
