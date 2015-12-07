@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags always come first -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{{ .Site.Title }}</title>
-    <meta property="og:title" content="{{ .Site.Title }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://psyrax012.info/" />
-    <meta property="og:image" content="http://psyrax012.info/images/header.jpg" />
-    <meta property="og:description" content="{{ .Site.Params.description }}" />
-    <meta name="description" content="{{ .Site.Params.description }}" />
-    {{ .Hugo.Generator }}
-  </head>
-  <body>
-    <div class="siteHead">
-      <div id="particles-js"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12 text-center">
-            <h1>Psyrax</h1>
-            <p class="lead headLead">Hacker, Maker, Gamer</p>
-            <ul class="list-unstyled list-inline">
-              <li><a href="https://github.com/psyrax" target="_blank" class="headerLink"><i class="fa fa-github-square"></i></a></li>
-              <li><a href="https://www.linkedin.com/in/psyrax" target="_blank" class="headerLink"><i class="fa fa-linkedin-square"></i></a></li>
-              <li><a href="https://hackaday.io/psyrax" target="_blank" class="headerLink"><i class="fa fa-external-link-square"></i></a></li>
-              <li><a href="https://twitter.com/psyrax" target="_blank" class="headerLink"><i class="fa fa-twitter-square"></i></a></li>
-              <li><a href="http://steamcommunity.com/id/psyrax/" target="_blank" class="headerLink"><i class="fa fa-steam-square"></i></a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
+{{ partial "header.html" . }}
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
@@ -49,13 +15,4 @@
         </div>
       </div>
     </div>
-    <link href='https://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{.Site.BaseURL}}css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{.Site.BaseURL}}css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{.Site.BaseURL}}css/theme.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="{{.Site.BaseURL}}js/bootstrap.min.js"></script>
-    <script src="{{.Site.BaseURL}}js/particles.min.js"></script>
-    <script src="{{.Site.BaseURL}}js/app.js"></script>
-  </body>
-</html>
+  {{ partial "footer.html" . }}

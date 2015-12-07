@@ -5,3 +5,6 @@
 .headerLink:hover{color:white;}
 .projectTitle{margin-top:0;}
 li{margin:0.8em 0;}
+.postRow{
+	margin-top: 1em;
+}

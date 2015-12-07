@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Psyrax</title>
-    <link>http://psyrax012.info/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Psyrax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Thu, 05 Nov 2015 16:03:09 -0600</lastBuildDate>
-    <atom:link href="http://psyrax012.info/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Arduino Performance Monitor</title>
-      <link>http://psyrax012.info/projects/apm/</link>
+      <link>http://localhost:1313/projects/apm/</link>
       <pubDate>Thu, 05 Nov 2015 16:03:09 -0600</pubDate>
       
-      <guid>http://psyrax012.info/projects/apm/</guid>
+      <guid>http://localhost:1313/projects/apm/</guid>
       <description>
 
 &lt;h2 id=&#34;nice-diy-external-display:f10664aa6b0d9cf32a29dfbf2a345507&#34;&gt;Nice DIY external display&lt;/h2&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>Ecobici DX</title>
-      <link>http://psyrax012.info/projects/ecobicidx/</link>
+      <link>http://localhost:1313/projects/ecobicidx/</link>
       <pubDate>Sun, 01 Jun 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://psyrax012.info/projects/ecobicidx/</guid>
+      <guid>http://localhost:1313/projects/ecobicidx/</guid>
       <description>
 
 &lt;h2 id=&#34;a-better-app-to-find-bikes:aac9071c5c2570e1741772b6e945fb84&#34;&gt;A better app to find bikes&lt;/h2&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>Buscameli</title>
-      <link>http://psyrax012.info/projects/buscameli/</link>
+      <link>http://localhost:1313/projects/buscameli/</link>
       <pubDate>Thu, 05 Nov 2015 16:27:40 -0600</pubDate>
       
-      <guid>http://psyrax012.info/projects/buscameli/</guid>
+      <guid>http://localhost:1313/projects/buscameli/</guid>
       <description>
 
 &lt;h2 id=&#34;mercado-libre-notification-service:ef0fde32371a733f8ccaf1fc82067803&#34;&gt;Mercado Libre notification service&lt;/h2&gt;
@@ -78,10 +78,10 @@
     
     <item>
       <title>Wii&#43;Joy Plus</title>
-      <link>http://psyrax012.info/projects/wii/</link>
+      <link>http://localhost:1313/projects/wii/</link>
       <pubDate>Thu, 05 Nov 2015 16:33:20 -0600</pubDate>
       
-      <guid>http://psyrax012.info/projects/wii/</guid>
+      <guid>http://localhost:1313/projects/wii/</guid>
       <description>
 
 &lt;h2 id=&#34;wiimote-driver-fork:c76ac91c3335398f9cfd717b1c150bd5&#34;&gt;Wiimote driver fork&lt;/h2&gt;
@@ -98,10 +98,10 @@
     
     <item>
       <title>Fritanga TV</title>
-      <link>http://psyrax012.info/projects/ftv/</link>
+      <link>http://localhost:1313/projects/ftv/</link>
       <pubDate>Thu, 05 Nov 2015 16:07:23 -0600</pubDate>
       
-      <guid>http://psyrax012.info/projects/ftv/</guid>
+      <guid>http://localhost:1313/projects/ftv/</guid>
       <description>
 
 &lt;h2 id=&#34;se-habla-español:650709d4b9219db6a0883d65ae920082&#34;&gt;Se habla español&lt;/h2&gt;
