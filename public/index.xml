@@ -2,33 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psyrax</title>
-    <link>http://localhost:1313/</link>
+    <link>http://psyrax012.info/</link>
     <description>Recent content on Psyrax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Sun, 06 Dec 2015 19:37:55 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://psyrax012.info/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Amplificador ChuMoy</title>
-      <link>http://localhost:1313/blog/chumoy/</link>
+      <link>http://psyrax012.info/blog/cm-amp/</link>
       <pubDate>Sun, 06 Dec 2015 19:37:55 -0600</pubDate>
       
-      <guid>http://localhost:1313/blog/chumoy/</guid>
+      <guid>http://psyrax012.info/blog/cm-amp/</guid>
       <description>
 
-&lt;p&gt;Este projecto esta basado en &lt;a href=&#34;http://tangentsoft.net/audio/cmoy/&#34;&gt;esta versión del amplificador ChuMoy&lt;/a&gt;. Sin embargo debido a las peliculiaridades del mercado mexicano pues hay que hacer cambios en piezas y en metodos. Ademas escribire un poco en tono de tutorial para enseñar algo de electrónica.&lt;/p&gt;
+&lt;p&gt;Este proyecto esta basado en &lt;a href=&#34;http://tangentsoft.net/audio/cmoy/&#34;&gt;esta versión del amplificador ChuMoy&lt;/a&gt;. Sin embargo debido a las peculiaridades del mercado mexicano pues hay que hacer cambios en piezas y en métodos. Escribiré un poco en tono de guía para enseñar algo del maravilloso hobby que es la electrónica.&lt;/p&gt;
 
 &lt;h2 id=&#34;conseguir-piezas:71de2c6b20109a3c3a1a2a4389db4497&#34;&gt;Conseguir piezas&lt;/h2&gt;
 
-&lt;p&gt;La parte mas complicada de hacer algo asi en México. Hay pocas tiendas, poco inventario y poca calidad :( Ademas generalmente mal servicio y malos precios.&lt;/p&gt;
+&lt;p&gt;La parte mas complicada de hacer algo así en México. Hay pocas tiendas, poco inventario y poca calidad :( Además generalmente mal servicio y malos precios.&lt;/p&gt;
+
+&lt;p&gt;Como habitante del estado de México y del DF siempre termino comprando todo en la calle de república del salvador en la divertida y concurrida colonia centro.&lt;/p&gt;
 
 &lt;h3 id=&#34;steren:71de2c6b20109a3c3a1a2a4389db4497&#34;&gt;Steren&lt;/h3&gt;
 
-&lt;p&gt;Casí la única opción para comprar componentes electrónicos. Nuestro radio shack, pero chafisima.&lt;/p&gt;
+&lt;p&gt;Casi la única opción para comprar componentes electrónicos. Nuestro radio shack, pero chafisima.&lt;/p&gt;
 
-&lt;p&gt;Aunque todo es de dudosa calidad sus precios son bajos generalemente. Es el ejemplo mas claro de lo complicado, aburrido y frustrante que se puede volver este pasatiempo, somos un mercado atorado en los ochenta y que se resiste al cambio y al consumo de piezas de calidad.&lt;/p&gt;
+&lt;p&gt;Aunque todo es de dudosa calidad sus precios son bajos generalmente. Es el ejemplo mas claro de lo complicado, aburrido y frustrante que se puede volver este pasatiempo, somos un mercado atorado en los ochenta y que se resiste al cambio y al consumo de piezas de calidad.&lt;/p&gt;
 
 &lt;p&gt;Los clientes que asisten también son peculiares, entre expertos en estas cosas y personas que buscan antenas para poder ver la señal digital en sus teles viejas.&lt;/p&gt;
 
@@ -137,7 +139,7 @@
 
 &lt;p&gt;AG Electrónica es de los pocos proveedores respetables, de los que si venden cosas originales y piezas de calidad. Dicho eso, es normal que se queden atorados en el pasado.&lt;/p&gt;
 
-&lt;p&gt;Les tomo aproximadamente como 5 o 6 años comenzar a vender arduinos. Hace como tres años fui a preguntar si ya los vendian, a lo cual me respondieron algo como &amp;ldquo;Ardu ¿Qué?&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Les tomo aproximadamente como 5 o 6 años comenzar a vender arduinos. Hace como tres años fui a preguntar si ya los vendían, a lo cual me respondieron algo como &amp;ldquo;Ardu ¿Qué?&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;Como para este proyecto lo mas importante es el amplificador operacional, decidí comprar el original de Texas Instruments, si los de las calculadoras, ahí.&lt;/p&gt;
 
@@ -148,20 +150,21 @@
 
 &lt;p&gt;No es su nombre oficial.&lt;/p&gt;
 
-&lt;p&gt;Es un edificio que mas bien parece una vecindad reacondicionada para acomodar decenas de tiendas de eléctronica que venden casi lo mismo todas. Solo las puede uno diferenciar por la falta de tacto que ofrecen a sus clientes, desde lo que casí te dicen soquete hasta los que toleran un poco tu falta de conocimiento en el campo.
-&lt;h4&gt;Potenciometro doble $10&lt;/h4&gt;
+&lt;p&gt;Es un edificio que mas bien parece una vecindad reacondicionada para acomodar decenas de tiendas de eléctronica que venden casi lo mismo todas. Solo las puede uno diferenciar por la falta de tacto que ofrecen a sus clientes, desde lo que casí te dicen soquete hasta los que toleran un poco tu falta de conocimiento en el campo.&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;Potenciometro doble $10&lt;/h4&gt;
 &lt;hr /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;costo-total-213-50:71de2c6b20109a3c3a1a2a4389db4497&#34;&gt;Costo total: $213.50&lt;/h2&gt;
+&lt;h2 id=&#34;costo-total-hasta-el-momento-213-50:71de2c6b20109a3c3a1a2a4389db4497&#34;&gt;Costo total [hasta el momento]: $213.50&lt;/h2&gt;
 </description>
     </item>
     
     <item>
       <title>Arduino Performance Monitor</title>
-      <link>http://localhost:1313/projects/apm/</link>
+      <link>http://psyrax012.info/projects/apm/</link>
       <pubDate>Thu, 05 Nov 2015 16:03:09 -0600</pubDate>
       
-      <guid>http://localhost:1313/projects/apm/</guid>
+      <guid>http://psyrax012.info/projects/apm/</guid>
       <description>
 
 &lt;h2 id=&#34;nice-diy-external-display:f10664aa6b0d9cf32a29dfbf2a345507&#34;&gt;Nice DIY external display&lt;/h2&gt;
@@ -180,10 +183,10 @@
     
     <item>
       <title>Ecobici DX</title>
-      <link>http://localhost:1313/projects/ecobicidx/</link>
+      <link>http://psyrax012.info/projects/ecobicidx/</link>
       <pubDate>Sun, 01 Jun 2014 10:54:24 +0200</pubDate>
       
-      <guid>http://localhost:1313/projects/ecobicidx/</guid>
+      <guid>http://psyrax012.info/projects/ecobicidx/</guid>
       <description>
 
 &lt;h2 id=&#34;a-better-app-to-find-bikes:aac9071c5c2570e1741772b6e945fb84&#34;&gt;A better app to find bikes&lt;/h2&gt;
@@ -204,10 +207,10 @@
     
     <item>
       <title>Buscameli</title>
-      <link>http://localhost:1313/projects/buscameli/</link>
+      <link>http://psyrax012.info/projects/buscameli/</link>
       <pubDate>Thu, 05 Nov 2015 16:27:40 -0600</pubDate>
       
-      <guid>http://localhost:1313/projects/buscameli/</guid>
+      <guid>http://psyrax012.info/projects/buscameli/</guid>
       <description>
 
 &lt;h2 id=&#34;mercado-libre-notification-service:ef0fde32371a733f8ccaf1fc82067803&#34;&gt;Mercado Libre notification service&lt;/h2&gt;
@@ -224,10 +227,10 @@
     
     <item>
       <title>Wii&#43;Joy Plus</title>
-      <link>http://localhost:1313/projects/wii/</link>
+      <link>http://psyrax012.info/projects/wii/</link>
       <pubDate>Thu, 05 Nov 2015 16:33:20 -0600</pubDate>
       
-      <guid>http://localhost:1313/projects/wii/</guid>
+      <guid>http://psyrax012.info/projects/wii/</guid>
       <description>
 
 &lt;h2 id=&#34;wiimote-driver-fork:c76ac91c3335398f9cfd717b1c150bd5&#34;&gt;Wiimote driver fork&lt;/h2&gt;
@@ -244,10 +247,10 @@
     
     <item>
       <title>Fritanga TV</title>
-      <link>http://localhost:1313/projects/ftv/</link>
+      <link>http://psyrax012.info/projects/ftv/</link>
       <pubDate>Thu, 05 Nov 2015 16:07:23 -0600</pubDate>
       
-      <guid>http://localhost:1313/projects/ftv/</guid>
+      <guid>http://psyrax012.info/projects/ftv/</guid>
       <description>
 
 &lt;h2 id=&#34;se-habla-español:650709d4b9219db6a0883d65ae920082&#34;&gt;Se habla español&lt;/h2&gt;
