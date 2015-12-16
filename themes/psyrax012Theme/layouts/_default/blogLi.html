@@ -1,0 +1,13 @@
+{{ $baseurl := .Site.BaseURL }}
+<div class="row">
+    <div class="col-xs-12 col-md-4 text-right">
+        <h2 class="projectTitle"><a href="{{ .Slug }}">{{ .Title }}</a></h2>
+        {{ if .Params.image }}
+        <img src="{{ .Site.BaseURL }}images/{{ .Params.image }}" class="img-responsive" alt="{{ .Title }}">
+        {{end}}
+    </div>
+    <div class="col-xs-12 col-md-8">
+    	<p>{{ .Params.excerpt }}</p>
+        <a href="{{ .Slug }}">Ver completo</a>
+    </div>
+</div>

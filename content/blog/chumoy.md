@@ -3,6 +3,7 @@ date = "2015-12-06T19:37:55-06:00"
 draft = false
 title = "Amplificador ChuMoy"
 slug = "cm-amp"
+excerpt = "Este proyecto esta basado en [esta versión del amplificador ChuMoy](http://tangentsoft.net/audio/cmoy/). Sin embargo debido a las peculiaridades del mercado mexicano pues hay que hacer cambios en piezas y en métodos. Escribiré un poco en tono de guía para enseñar algo del maravilloso hobby que es la electrónica."
 +++
 
 
