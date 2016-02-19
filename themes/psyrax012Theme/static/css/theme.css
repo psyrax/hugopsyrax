@@ -8,3 +8,9 @@ li{margin:0.8em 0;}
 .postRow{
 	margin-top: 1em;
 }
+.well{
+	background-color: #F8F8FA;
+	border: solid 1px  #F8F8FA;
+	padding: 1em;
+	border-radius: 3px;
+}
